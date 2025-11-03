@@ -22,6 +22,7 @@ Stay tuned for updates — every commit will represent one more step toward mast
 
 📂 dbms-learning/  
 │  
+|-- index.md
 ├── 📘 01_Introduction/  
 │ ├── DBMS_vs_FileSystem.md  
 │ ├── Architecture.md  
